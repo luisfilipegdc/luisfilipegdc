@@ -1,25 +1,38 @@
-<h1 align="left">Fala aí, me chamo Luis Filipe <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+## 👋 Olá, sou Luis Filipe Gomes!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gdcarvalho&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Desenvolvedor Web Júnior 
+### 🎓 Sobre mim:
 
-- 🔭 Dedicado ao aprendizado contínuo...
+🌍 Moro no Brasil.<br/>
+📚 Atualmente cursando Analise e desenvolvimento de Sistemas<br/>
+🎓 Técnico de informática.<br/>
+💻 Desenvolvedor Web e apaixonado por criar soluções elegantes.<br/>
+  
+### 👩‍💻 Interesses profissionais:
 
-- 👨‍💻 Meus projetos [embreve.com](#)
+🖥️ Profundamente fascinado por todas as coisas da ciência da computação - atualmente estudando mais sobre laravel.<br/>
+📱 Desenvolvimento de aplicativos web intuitivos e impactantes.<br/>
+🛠️ Explorando continuamente novas tecnologias.<br/>
 
-- ⚡ stay **hungry** stay **foolish** 😜
+### 🌱 O que estou fazendo:
 
-<br><br>
+📖 Constantemente aprendendo e aprimorando minhas habilidades em desenvolvimento web.<br/>
+🔄 Contribuir para projetos de código aberto que despertem meu interesse.<br/>
+🤝 🤝 Procurando colaborar em projetos inovadores para web.<br/>
 
-## 🛠 &nbsp;Tech Stack
+### 📈 Meus objetivos:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+🌟 Desenvolver aplicações SaaS que fazem a diferença.<br/>
+🌐 Conectar e colaborar com outros desenvolvedores e entusiastas de tecnologia<br/>
 
-<br><br>
+### 📫 Entre em contato:
+
+💬 Sinta-se à vontade para entrar em contato para colaborações ou apenas um bate-papo técnico!<br/>
+📧 Envie-me um e-mail para: <br/>
+🔗 [Linkedin profile](https://linkedin.com/in/luisfilipegdc).<br/>
+
+<hr>
+
+> "A melhor maneira de prever o futuro é inventá-lo." – Alan Kay
+
+
