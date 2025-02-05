@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=luisfilipegdc&show_icons=true&title_color=b2bfd3&text_color=f0f3f7e&icon_color=bec0d3&bg_color=3f526f&cache_seconds=2300" alt="ilustração do status do github">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=luisfilipegdc&show_icons=true&title_color=b2bfd3&text_color=fff&icon_color=bec0d3&bg_color=3f526f&cache_seconds=2300" alt="ilustração do status do github">
 
 ### Olá, meu nome é Luis Filipe Gomes!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gdcarvalho&color=yellow" alt="Profile views" /> </p>
