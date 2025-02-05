@@ -1,29 +1,12 @@
-## 👋 Olá, sou Luis Filipe Gomes!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+
+### Olá, meu nome é Luis Filipe Gomes!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gdcarvalho&color=yellow" alt="Profile views" /> </p>
 
-### 🎓 Sobre mim:
+<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-🌍 Moro no Brasil.<br/>
 📚 Atualmente cursando Analise e desenvolvimento de Sistemas<br/>
-🎓 Técnico de informática.<br/>
-💻 Desenvolvedor Web e apaixonado por criar soluções elegantes.<br/>
-  
-### 👩‍💻 Interesses profissionais:
-
-🖥️ Profundamente fascinado por todas as coisas da ciência da computação - atualmente estudando mais sobre laravel.<br/>
-📱 Desenvolvimento de aplicativos web intuitivos e impactantes.<br/>
-🛠️ Explorando continuamente novas tecnologias.<br/>
-
-### 🌱 O que estou fazendo:
-
-📖 Constantemente aprendendo e aprimorando minhas habilidades em desenvolvimento web.<br/>
-🔄 Contribuir para projetos de código aberto que despertem meu interesse.<br/>
-🤝 🤝 Procurando colaborar em projetos inovadores para web.<br/>
-
-### 📈 Meus objetivos:
-
-🌟 Desenvolver aplicações SaaS que fazem a diferença.<br/>
-🌐 Conectar e colaborar com outros desenvolvedores e entusiastas de tecnologia<br/>
+💻  Desenvolvo aplicações SaaS que fazem a diferença.<br/>
 
 ### 📫 Entre em contato:
 
@@ -34,5 +17,3 @@
 <hr>
 
 > "A melhor maneira de prever o futuro é inventá-lo." – Alan Kay
-
-
